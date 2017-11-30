@@ -1,0 +1,113 @@
+
+
+body {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background-color: #eeeeee;
+	border-color: #dddddd;	
+	margin: 0;
+	padding: 0;
+
+}
+
+#logo {
+	font-weight: bold;
+	color: white;
+	background-color:#4aaaa5;
+}
+
+#main-head {
+	background-color: #ffffff;
+	border-color: #cccccc;
+	margin: 0 auto;
+	height: 50px;
+	
+}
+
+nav {
+	float: right;
+	text-decoration: none;
+
+}
+
+#main-container {
+	width: 650px
+	background-color: black;
+	border-color: #dddddd;
+	margin-right: 310px;
+	margin-left:280px;
+	
+
+}
+.main-section {
+	width: 650px;
+	font color: #777777;
+	background-color: #ffffff
+
+
+}
+
+h2{
+	background-color: white;
+	font color: #4aaaa5;
+	color: #4aaaa5;
+}
+h3{
+	background-color: white;
+	font color: #4aaaa5;
+}
+p {
+	font-family: font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+}
+
+p:first-letter {
+	font-weight: bold;
+	color: #4aaaa5;
+}
+a:link {
+	text-decoration: none;
+}
+ a:hover {
+	color: red;
+}
+
+#container {
+	position: fixed;
+	background-color: #ffffff;
+
+}
+
+#connect {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background-color: white;
+	font color: #777777;
+	float: right;
+	width: 270px;
+
+}
+
+.sidebar {
+	width: 270px;
+	float:right;
+	font color: #777777;
+
+}
+
+#contact-form {
+	display: ;
+	width: 650px;
+	t
+}
+footer {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	text-align: center;
+	font-size: 10px;
+	line-height: 3.5;
+	background-color: #666666;
+	color: white;
+	border-top: 6px solid #4aaaa5;
+	clear: both;
+
+	
+	
+
